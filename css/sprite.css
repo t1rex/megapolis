@@ -1,0 +1,41 @@
+.sprite {
+    background-image: url(../img/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-d_flag {
+    width: 30px;
+    height: 43px;
+    background-position: -5px -5px;
+}
+
+.sprite-en_flag {
+    width: 31px;
+    height: 43px;
+    background-position: -45px -5px;
+}
+
+.sprite-f_flag {
+    width: 31px;
+    height: 43px;
+    background-position: -5px -58px;
+}
+
+.sprite-h_flag {
+    width: 30px;
+    height: 43px;
+    background-position: -46px -58px;
+}
+
+.sprite-italy_flag {
+    width: 31px;
+    height: 43px;
+    background-position: -86px -5px;
+}
+
+.sprite-spain_flag {
+    width: 31px;
+    height: 43px;
+    background-position: -86px -58px;
+}
